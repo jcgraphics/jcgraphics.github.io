@@ -14,9 +14,14 @@
     }
     h2 {
       color: #FF6600;
-    
+    text-decoration: none;
+    Background-color: #F00
+    border-radious: 30px;
   }
 
 nav a{
+    color: #FFF;
+}
+nav a:visited{
     color: #FFF;
 }
