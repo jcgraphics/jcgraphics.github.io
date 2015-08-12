@@ -19,7 +19,9 @@
     background-color: #F00
     border-radius: 30px;
   }
-
+img {
+    width: 200;
+}
 nav a{
     color: #FFF;
 }
